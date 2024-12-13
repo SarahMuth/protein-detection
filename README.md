@@ -1,5 +1,7 @@
 # protein-detection
 
+This project focuses on developing deep learning models to detect protein structures directly from cryo-electron tomography (cryo-ET) data of synaptic regions.
+
 THIS IS WORK IN PROGRESS!
 
 ## Installation
